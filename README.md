@@ -1,5 +1,5 @@
 # Cyber-Security
-Professional Statement
+**Professional Statement**
 
 **//Strengths**
 
@@ -7,7 +7,7 @@ Professional Statement
 
 **Leadership & Teamwork Enthusiast:** I thrive in environments where people collaborate and win as a team. 
 
-Intermediate Programmer: I am Comfortable writing scripts, breaking things (fixing them), and learning new tech fast.
+**Intermediate Programmer:** I am Comfortable writing scripts, breaking things (fixing them), and learning new tech fast.
 
 **//Values**
 
